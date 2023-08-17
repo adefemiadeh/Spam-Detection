@@ -1,9 +1,9 @@
 # Spam-Detection
-A machine learning algorithm used to test the ingenuity of text messages/Email messages. 
+A machine learning algorithm used to test the ingenuity of text messages messages. 
 
 ![Vehicle-Type-Prediction](supercar.jpg)
 
-Predicting Vehicle Type Prediction using machine learning models.
+Predicting Text messages genuinity using machine learning models.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -45,6 +45,3 @@ The project is organized as follows:
 
 ## Contact
 For questions or feedback, contact me at adefemiadeyanju101@hotmail.com.
-
-
-
