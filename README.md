@@ -1,7 +1,7 @@
 # Spam-Detection
 A machine learning algorithm used to test the ingenuity of text messages messages. 
 
-![Vehicle-Type-Prediction](supercar.jpg)
+![Vehicle-Type-Prediction](image.avif)
 
 Predicting Text messages genuinity using machine learning models.
 
@@ -23,7 +23,7 @@ The project is organized as follows:
 
 - `Spam.csv/`: Contains raw data files.
 - `Spam Detection.ipynb/`: Holds Jupyter notebooks used for data analysis and exploration.
-- `model.pkl/`: Stores trained machine learning models for vehicle type prediction.
+- `model.pkl/`: Stores trained machine learning models for type prediction.
 - `fast.py/app.py`: A Python script to make predictions using trained models.
 
 ## Data Source and Preprocessing
