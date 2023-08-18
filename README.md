@@ -31,14 +31,10 @@ The project is organized as follows:
 - Preprocessed data by handling missing values and encoding categorical features.
 
 ## Model Details
-- Trained a Random Forest Classifier and Gradient Boosting Classifier.
+- Trained a GaussianNB,MultinomialNB, and BernoulliNB Classifier.
 
 ## Evaluation Metrics
-- Evaluated models using Mean Absolute Error (MAE).
-
-## Results and Visualizations
-![Results](feature.jpg)
-- Visualized feature importances for the Gradient Boosting Model.
+- Evaluated models using Accurazy Score, Confusion Matrix and Precision Score.
 
 ## Acknowledgments
 - Used the `scikit-learn` library for machine learning models.
