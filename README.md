@@ -25,6 +25,7 @@ The project is organized as follows:
 - `Spam Detection.ipynb/`: Holds Jupyter notebooks used for data analysis and exploration.
 - `model.pkl/`: Stores trained machine learning models for type prediction.
 - `fast.py/app.py`: A Python script to make predictions using trained models.
+- - `vectorizer.pkl`: Tfidfvectorizer model.
 
 ## Data Source and Preprocessing
 - The dataset is obtained from [Kaggle](https://www.kaggle.com/dataset).
