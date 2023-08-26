@@ -26,6 +26,7 @@ The project is organized as follows:
 - `model.pkl/`: Stores trained machine learning models for type prediction.
 - `fast.py/app.py`: A Python script to make predictions using trained models.
 - `vectorizer.pkl`: Tfidfvectorizer model.
+- `nltk.txt`: nltk libraries used.
 
 ## Data Source and Preprocessing
 - The dataset is obtained from [Kaggle](https://www.kaggle.com/dataset).
