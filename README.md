@@ -11,7 +11,6 @@ Predicting Text messages genuinity using machine learning models.
 - [Data Source and Preprocessing](#data-source-and-preprocessing)
 - [Model Details](#model-details)
 - [Evaluation Metrics](#evaluation-metrics)
-- [Results and Visualizations](#results-and-visualizations)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
