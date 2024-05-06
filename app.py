@@ -31,7 +31,7 @@ def text_transform(text):
     
     return " ".join(y)
 
-tfidf = open.load(open('vectorizer.pkl','rb'))
+tfidf = load(open('vectorizer.pkl','rb'))
 model = pickle.load(open('model.pkl','rb'))
 
 def main():
